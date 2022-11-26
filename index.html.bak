@@ -25,7 +25,7 @@
   
 
   <input id="add" value="Add Workspace" type="button">
-  <input id="remove" value="Remove Workspace" type="button">
+  <!-- <input id="remove" value="Remove Workspace" type="button"> -->
   
   <select id="workspaces">
 	<option value="Select">--Select--</option>
